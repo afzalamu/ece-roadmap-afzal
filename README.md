@@ -22,7 +22,7 @@ This repository contains subject-wise notes, top lecture playlists, recommended 
 
 ---
 
-## 🎯 [GATE Preparation](./GATE-Preparation/README.md)
+## 🎯 [GATE Preparation](./GATE-Preparation/Readme.md)
 
 Subject-wise strategy, notes, previous year questions, mock tests and more for **GATE EC** aspirants.
 
