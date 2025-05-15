@@ -4,8 +4,16 @@ Welcome to my curated resource hub for **Electronics & Communication Engineering
 This repository contains subject-wise notes, top lecture playlists, recommended textbooks, GATE prep material, extra technical skills, and categorized mini projects — all organized semester-wise.
 
 > 🎓 Maintained by Afzal Malik  
-> 🧑‍🎓 Final Year, B.Tech (Electronics Engineering)  
+> 🧑‍🎓 Final Year, B.Tech (Electronics Engineering), **Aligarh Muslim University**  
 > 🛠️ Continuously Updated | 💬 Contributions Welcome
+
+---
+
+## 🏛️ Curriculum Context
+
+📌 **Semester-wise structure is based on the official B.Tech Electronics Engineering curriculum of Aligarh Muslim University (AMU)**, Department of Electronics Engineering.
+
+Students from other universities can still benefit from the resources as they are based on standard ECE core subjects.
 
 ---
 
