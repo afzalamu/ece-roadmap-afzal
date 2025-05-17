@@ -1,7 +1,7 @@
 # 🎓 Semester 6 – Electronics Engineering  
 📍 *Curriculum: AMU – Department of Electronics Engineering*
 
-This semester is packed with important digital domain subjects that form the backbone for modern electronics design, signal processing, and embedded applications.
+This semester builds your skills in digital design, signal processing, and embedded systems — all highly relevant for real-world applications and GATE.
 
 ---
 
@@ -20,13 +20,13 @@ This semester is packed with important digital domain subjects that form the bac
 
 ## 🧠 Digital System Design
 
-This subject focuses on finite state machines, sequence detectors, Verilog HDL, and timing analysis — highly relevant for VLSI and FPGA domains.
+Covers FSMs, Verilog HDL, sequence detectors, timing analysis, and more.
 
-- 📁 [Notes, Slides, Verilog Material (Google Drive)](https://drive.google.com/drive/folders/11ywfwbmYDpCdiYgZsI0iinrZWiIENJHP?usp=drive_link)  
+- 📁 [Slides, Notes, Verilog Material (Google Drive)](https://drive.google.com/drive/folders/11ywfwbmYDpCdiYgZsI0iinrZWiIENJHP?usp=drive_link)  
   *Credit: Prof. Mohd Hasan, Dept. of Electronics Engg., AMU*
 
-### 📌 Learn More:
-- 🧪 [Verilog – NPTEL Course (IIT KGP)](https://archive.nptel.ac.in/courses/106/105/106105165/)
+### Learn More:
+- 🧪 [Verilog – NPTEL Course](https://archive.nptel.ac.in/courses/106/105/106105165/)
 - ⏱️ [Static Timing Analysis – YouTube](https://youtu.be/FZgc7V94Vzg?si=oKjR-jH_LMxXNHDa)
 - 🔁 [Sequence Detectors – YouTube](https://youtu.be/ib8KO1Nu07s?si=HUxMUBXChEM0zrrc)
 
@@ -34,72 +34,75 @@ This subject focuses on finite state machines, sequence detectors, Verilog HDL, 
 
 ## 🎧 Digital Signal Processing (DSP)
 
-DSP covers discrete signals, systems, Fourier transforms, Z-transforms, and filtering — critical for communication and control systems.
+Focus on discrete signals, Z/Fourier transforms, filtering, and system analysis.
 
 - 📁 [Notes, Slides, Books (Google Drive)](https://drive.google.com/drive/folders/1uUC9YBP3TW8NhoGTaGwf0oVTbYQrqOgI?usp=drive_link)  
   *Credit: Prof. Omar Farooq, Dept. of Electronics Engg., AMU*
 
-### 📌 Learn More:
 - 🎓 [DSP – NPTEL Course (IIT Roorkee)](https://archive.nptel.ac.in/courses/108/101/108101174/)
 
 ---
 
 ## 📡 Digital Communication
 
-Introduces digital modulation techniques, channel coding, bit error analysis, and more — essential for wireless systems and GATE.
+Key concepts include digital modulation, source/channel coding, bit error rates, etc.
 
-- 📁 [Notes, Slides, Books (Google Drive)](https://drive.google.com/drive/folders/1JCgUnk-nW-JMat8aONXvvQp00bhIKCYv?usp=drive_link)  
+- 📁 [Slides, Notes, Books (Google Drive)](https://drive.google.com/drive/folders/1JCgUnk-nW-JMat8aONXvvQp00bhIKCYv?usp=drive_link)  
   *Credit: Prof. Ekram Khan, Dept. of Electronics Engg., AMU*
 
-### 📌 Learn More:
-- 🎓 [Digital Communication – NPTEL Online Course](https://onlinecourses.nptel.ac.in/noc21_ee11/preview)
+- 🎓 [NPTEL Online Course](https://onlinecourses.nptel.ac.in/noc21_ee11/preview)
 
 ---
 
-## 🧮 Data Structures and Programming
+## 💻 Data Structures and Programming
 
-- 📁 [To be added]
-- 🧠 Recommended Language: C/C++
+DSA is essential for embedded programming, automation, and interview prep.
 
----
-
-## 🧾 Economics & Management
-
-A soft-core subject introducing engineering economics, basic management concepts, and decision-making tools.
-
-- 📁 [To be added]
+- 📁 [Notes, Slides (Google Drive)](https://drive.google.com/drive/folders/1Dl-xz99CpIt087ek0pxRKVvZeMARGs4J?usp=drive_link)
+- 🎥 [YouTube Playlist – CodeHelp (C++)](https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&si=_LvLu16hyrcCsQsd)
 
 ---
 
-## 🧪 Embedded Systems Lab
+## 📊 Economics & Management
 
-- Practical exposure to microcontrollers, interfacing, and embedded design tools.
-- 📁 [To be added]
+Covers fundamentals of engineering economics, time value of money, costing, and intro to management principles.
+
+- 📁 [Notes & Slides (Google Drive)](https://drive.google.com/drive/folders/1Dl-xz99CpIt087ek0pxRKVvZeMARGs4J?usp=drive_link)
+- 🎥 [YouTube Playlist](https://youtube.com/playlist?list=PLXmFOHlXt6lQMf3WcHkpJjPvz4V4z4fab&si=l9zYJFWhgASmcepP)
 
 ---
 
-## 📡 Communication Lab – II
+## ⚙️ Embedded Systems Lab
 
-- Experiments related to digital modulation, encoding/decoding, etc.
-- 📁 [To be added]
+Practical implementation using microcontrollers and interfacing peripherals.
+
+- 📁 [Lab Manual and Resources (Google Drive)](https://drive.google.com/drive/folders/1dUB-3SYkuEkeh76ej_RjqIvq8SoXIRgB?usp=drive_link)
+
+---
+
+## 🧪 Communication Lab – II
+
+Experiments related to digital modulation, detection, noise analysis, etc.
+
+- 📁 [POC 2 Lab Resources (Google Drive)](https://drive.google.com/drive/folders/1hOTvKKAiwNHvmMauK0Fl93IJjX40w-05?usp=drive_link)
 
 ---
 
 ## 🛠️ Mini Project
 
-Start applying what you’ve learned — small design + simulation + documentation.
+This is your chance to apply what you've learned this semester. You can design small systems using Verilog, DSP, or microcontroller-based projects.
 
-- 💡 Tip: Use your Digital System Design or DSP knowledge to build a project.
+- 💡 Tip: Pick a problem you genuinely enjoy solving.
 
 ---
 
 ## 📬 Contributions
 
-Have better notes or extra resources? Feel free to contribute!  
-Pull requests or GitHub issues are always welcome.
+Feel free to improve this section with better notes, updated links, or your own mini project!  
+Pull requests and GitHub issues are always welcome.
 
-> 🎓 All material credit goes to respective professors of the Dept. of Electronics Engineering, AMU.
+> 📚 *Credits go to respective faculty members of the Dept. of Electronics Engineering, AMU, for shared resources.*
 
 ---
 
-**This semester bridges your core knowledge with real-world applications — stay consistent and hands-on. 🚀**
+**Build hands-on confidence — this semester pushes you from concepts to systems 🚀**
